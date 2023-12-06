@@ -4,7 +4,7 @@
 
  ## Computer Science Projects
 
- My GitHub page is http://github.com/EthanCarating.githut.io
+ My GitHub page is http://github.com/EthanCarating1.githut.io
 
  ### CPSC 120
 
